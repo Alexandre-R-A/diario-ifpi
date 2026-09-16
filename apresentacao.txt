@@ -1,0 +1,5 @@
+Nome: Alexandre Rocha
+Curso: Técnico em Informática - IFPI
+Turma: 3º Ano
+Cidade: Parnaíba - PI
+Objetivo: Aprender Git e Github para trabalhar em projetos colaborativos.
